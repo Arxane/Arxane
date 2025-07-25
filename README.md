@@ -46,13 +46,14 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
   <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="36" height="36" alt="Cargo" title="Cargo (Rust Package Manager)"/></a>
 
   <!-- LLM & Agentic AI -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/L/langchain-logo-611654.svg" width="36" height="36" alt="LangChain" title="LangChain"/>
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/images/langchain-logo.svg" width="36" height="36" alt="LangChain" title="LangChain"/>
 </a>
 
-<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/L/langgraph-logo-616429.svg" width="36" height="36" alt="LangGraph" title="LangGraph"/>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" width="36" height="36" alt="LangGraph" title="LangGraph"/>
 </a>
+
 
 
   <!-- DevOps -->
