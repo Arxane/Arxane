@@ -26,8 +26,13 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
   <!-- AI / ML / CV -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-Learn" title="Scikit-Learn"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opencv-colored.svg" width="36" height="36" alt="OpenCV" title="OpenCV"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn"/>
+</a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="36" height="36" alt="OpenCV" title="OpenCV"/>
+</a>
+
 
   <!-- Backend / Infra -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI"/></a>
@@ -41,8 +46,13 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
   <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="36" height="36" alt="Cargo" title="Cargo (Rust Package Manager)"/></a>
 
   <!-- LLM & Agentic AI -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/141644116?s=200&v=4" width="36" height="36" alt="LangChain" title="LangChain"/></a>
-  <a href="https://www.langgraph.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/146885948?s=200&v=4" width="36" height="36" alt="LangGraph" title="LangGraph"/></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/141644116?s=200&v=4" width="36" height="36" alt="LangChain" title="LangChain"/>
+</a>
+<a href="https://www.langgraph.dev/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/146885948?s=200&v=4" width="36" height="36" alt="LangGraph" title="LangGraph"/>
+</a>
+
 
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
