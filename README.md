@@ -47,10 +47,11 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
 
   <!-- LLM & Agentic AI -->
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/141644116?s=200&v=4" width="36" height="36" alt="LangChain" title="LangChain"/>
+  <img src="https://seeklogo.com/images/L/langchain-logo-611654.svg" width="36" height="36" alt="LangChain" title="LangChain"/>
 </a>
-<a href="https://www.langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/146885948?s=200&v=4" width="36" height="36" alt="LangGraph" title="LangGraph"/>
+
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/L/langgraph-logo-616429.svg" width="36" height="36" alt="LangGraph" title="LangGraph"/>
 </a>
 
 
@@ -67,9 +68,6 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
   </a>
   <a href="https://www.linkedin.com/in/arxane" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/kirill_egorov_6" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
   </a>
 </p>
 
