@@ -43,7 +43,7 @@ AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision fo
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" title="Bash"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" title="Neovim"/></a>
-  <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="36" height="36" alt="Cargo" title="Cargo (Rust Package Manager)"/></a>
+  <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer"><img src="[https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg](https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png)" width="36" height="36" alt="Cargo" title="Cargo (Rust Package Manager)"/></a>
 
   <!-- LLM & Agentic AI -->
 <a href="https://www.langchain.com/" target="_blank">
