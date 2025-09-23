@@ -4,12 +4,12 @@ Hi 👋 My name is Mayank (aka Arxane)
 AI | CS
 -------
 
-AI/CS undergrad at IIT Jodhpur working in the field of AI and Computer Vision for more than 1.5 years. I am currently looking to focus more in the world of Agentic AI and LLM development. I also spent a few months learning Rust and zero-knowledge proofs just for my curiosity. I am also working towards improving myself in Competitive Programming. Open for collaborating in projects involving novel approaches in any of the above fields.
+AI/CS undergrad at IIT Jodhpur with 1.5+ years of experience in AI and Computer Vision. Currently shifting my focus towards Novel AI (Agentic AI, LLM development) and Quant (algorithmic trading, mathematical modeling). Alongside, I’ve explored Rust and zero-knowledge proofs out of curiosity, and I’m continuously sharpening my skills in Competitive Programming. Open to collaborations on projects that push boundaries in AI, Quant, and novel computational approaches.
 
 * 🌍  I'm based in Sirohi, India  
 * ✉️  You can contact me at [mayankvish65@gmail.com](mailto:mayankvish65@gmail.com)  
-* 🧠  I'm learning Rust, zkP frameworks, and Agentic AI  
-* 🤝  I'm open to collaborating on projects involving novel approaches in the field of AI  
+* 🧠  I'm learning Rust, LLM Development and Algorithmic Trading 
+* 🤝  I'm open to collaborating on projects involving novel approaches in the field of AI or Finance 
 * ⚡  I am also an aspiring cult leader :)
 
 ### Skills
