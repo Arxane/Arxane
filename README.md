@@ -6,6 +6,8 @@ AI | CS
 
 AI/CS undergrad at IIT Jodhpur with 1.5+ years of experience in AI and Computer Vision. Currently shifting my focus towards Novel AI (Agentic AI, LLM development) and Quant (algorithmic trading, mathematical modeling). Alongside, I’ve explored Rust and zero-knowledge proofs out of curiosity, and I’m continuously sharpening my skills in Competitive Programming. Open to collaborations on projects that push boundaries in AI, Quant, and novel computational approaches.
 
+https://arxane.netlify.app/
+
 * 🌍  I'm based in Sirohi, India  
 * ✉️  You can contact me at [mayankvish65@gmail.com](mailto:mayankvish65@gmail.com)  
 * 🧠  I'm learning Rust, LLM Development and Algorithmic Trading 
